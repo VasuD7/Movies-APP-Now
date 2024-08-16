@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-
+![Site here ]([/frontend/public/screenshot-for-readme.png](https://movies-app-by-d7.onrender.com/))
 
 About This App:
 
